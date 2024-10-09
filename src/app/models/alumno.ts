@@ -4,6 +4,6 @@ export class Alumno{
     nombre:string | undefined;
     apellido1:string | undefined;
     apellido2:string | undefined;
-    fecha:Date | undefined;
+    fecha:string | undefined;
     provincia:string | undefined;
 }
